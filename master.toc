@@ -2,6 +2,8 @@
 \defcounter {refsection}{0}\relax 
 \select@language {danish}
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.1}Synopsis}{iv}{section.0.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Forord}{ix}{chapter*.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Indledning}{1}{chapter.1}
@@ -94,8 +96,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.6}Bussluse}{37}{subsection.3.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Diskussion}{39}{chapter.4}
+\contentsline {chapter}{\numberline {4}Perpektivering}{39}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografi}{41}{chapter*.38}
+\contentsline {chapter}{\numberline {5}Diskussion}{41}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Appendix A name}{43}{appendix.A}
+<<<<<<< HEAD
+\contentsline {chapter}{\numberline {A}Appendix A name}{41}{appendix.A}
+=======
+\contentsline {chapter}{Bibliografi}{43}{chapter*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Appendix A name}{45}{appendix.A}
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
