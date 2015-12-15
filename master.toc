@@ -69,6 +69,48 @@
 \contentsline {subsection}{\numberline {3.3.3}Cykelbane i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{37}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.4}Vurdering af l\IeC {\o }sning p\IeC {\r a} problemet i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{40}{subsection.3.3.4}
+<<<<<<< HEAD
+=======
+=======
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Boulevarden}{27}{subsubsection*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Nytorv}{27}{subsubsection*.23}
+>>>>>>> e3c2171b52937ee71621cccc4e30275fa5402cc9
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.5}Rundk\IeC {\o }rsel}{42}{subsection.3.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Fordel og Ulempe}{44}{subsubsection*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{L\IeC {\o }sning eller ej?}{44}{subsubsection*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.6}Bussluse}{44}{subsection.3.3.6}
+\defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
+\contentsline {subsection}{\numberline {3.3.7}Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{51}{subsection.3.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Perpektivering}{53}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Diskussion}{59}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Interviews}{63}{appendix.A}
+=======
+\contentsline {section}{\numberline {3.3}L\IeC {\o }sningforslag}{38}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Cykelbane som l\IeC {\o }sningforslag for et tryggere omr\IeC {\r a}de i Nytorv}{38}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Forskellen p\IeC {\r a} cykelsti og cykelbane}{38}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
+\contentsline {chapter}{\numberline {4}Perpektivering}{41}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Diskussion}{43}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Appendix A name}{45}{appendix.A}
+=======
+\contentsline {subsection}{\numberline {3.3.3}Cykelbane i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{39}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.4}Vurdering af l\IeC {\o }sning p\IeC {\r a} problemet i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{42}{subsection.3.3.4}
+>>>>>>> 009ac9b68cd2b93fbb1c47d4729b9610ea235661
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.5}Rundk\IeC {\o }rsel}{41}{subsection.3.3.5}
 \defcounter {refsection}{0}\relax 
@@ -84,4 +126,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Diskussion}{57}{chapter.5}
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {chapter}{\numberline {A}Interviews}{61}{appendix.A}
+=======
+\contentsline {chapter}{\numberline {A}Interviews}{65}{appendix.A}
+>>>>>>> e3c2171b52937ee71621cccc4e30275fa5402cc9
+>>>>>>> cecf2882df1ee084eb1246487e3544cbc3e71c22
+>>>>>>> 009ac9b68cd2b93fbb1c47d4729b9610ea235661

@@ -1,8 +1,9 @@
 pdflatex master.tex
 pdflatex master.tex
 pdflatex master.tex
-del *.toc
-del *.aux
-del *.log
-del *.lot
-del *.out
+
+rm *.toc
+rm *.aux
+rm *.log
+rm *.lot
+rm *.out
