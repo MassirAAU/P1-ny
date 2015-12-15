@@ -2,7 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {danish}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.1}Synopsis}{iv}{section.0.1}
+\contentsline {section}{\numberline {0.1}Synopsis}{iii}{section.0.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Forord}{ix}{chapter*.3}
 \defcounter {refsection}{0}\relax 
@@ -10,130 +10,78 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Nytorv f\IeC {\o }r 00'erne}{1}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Hvorfor f\IeC {\ae }rdes der mange mennesker p\IeC {\r a} Nytorv?}{3}{section.1.2}
+\contentsline {section}{\numberline {1.2}Hvorfor f\IeC {\ae }rdes der mange mennesker p\IeC {\r a} Nytorv?}{2}{section.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}Shared Space}{4}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Problemformulering}{9}{chapter.2}
+\contentsline {chapter}{\numberline {2}Problemformulering}{7}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Afgr\IeC {\ae }nsning}{10}{section.2.1}
+\contentsline {section}{\numberline {2.1}Afgr\IeC {\ae }nsning}{8}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Unders\IeC {\o }gelse af trygheden p\IeC {\r a} Nytorv}{11}{chapter.3}
+\contentsline {chapter}{\numberline {3}Unders\IeC {\o }gelse af trygheden p\IeC {\r a} Nytorv}{9}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Analyse og Resultater}{11}{section.3.1}
+\contentsline {section}{\numberline {3.1}Analyse og Resultater}{9}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Shared Space tr\IeC {\ae }k i Nytorv/\IeC {\O }ster\IeC {\r a}gade omr\IeC {\r a}det}{11}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}Shared Space tr\IeC {\ae }k i Nytorv/\IeC {\O }ster\IeC {\r a}gade omr\IeC {\r a}det}{9}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Trafikanternes benyttelse af Nytorv som et Shared Space}{14}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Trafikanternes benyttelse af Nytorv som et Shared Space}{12}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Interviews}{16}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.3}Interviews}{13}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.4}Anvendelse af interviews i praksis}{16}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.4}Anvendelse af interviews i praksis}{13}{subsection.3.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.5}Form\IeC {\r a}lene med interviewene ved Nytorv/\IeC {\O }ster\IeC {\r a}gade i Aalborg}{17}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.5}Form\IeC {\r a}lene med interviewene ved Nytorv/\IeC {\O }ster\IeC {\r a}gade i Aalborg}{14}{subsection.3.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.6}Interview resultaterne med forbig\IeC {\r a}ende fodg\IeC {\ae }ngere og cyklister ved Nytorv/\IeC {\O }ster\IeC {\r a}gade i Aalborg}{17}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.6}Interview resultaterne med forbig\IeC {\r a}ende fodg\IeC {\ae }ngere og cyklister ved Nytorv/\IeC {\O }ster\IeC {\r a}gade i Aalborg}{15}{subsection.3.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Trafikt\IeC {\ae }llinger}{19}{section.3.2}
+\contentsline {section}{\numberline {3.2}Trafikt\IeC {\ae }llinger}{16}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Manuel t\IeC {\ae }lling}{20}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}Manuel t\IeC {\ae }lling}{17}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Opregning af trafikt\IeC {\ae }llinger til \IeC {\r A}DT}{22}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}Opregning af trafikt\IeC {\ae }llinger til \IeC {\r A}DT}{19}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}\IeC {\r A}DT}{24}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}\IeC {\r A}DT}{23}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Cyklernes \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{24}{subsubsection*.10}
+\contentsline {subsubsection}{Cyklernes \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{23}{subsubsection*.10}
 \defcounter {refsection}{0}\relax 
-<<<<<<< HEAD
-\contentsline {subsubsection}{Bilernes \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{24}{subsubsection*.12}
+\contentsline {subsubsection}{Bilernes \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{23}{subsubsection*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Flow kort over biler}{24}{subsubsection*.14}
-=======
-\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Boulevarden mod Havnen}{24}{subsubsection*.11}
+\contentsline {subsubsection}{Flow kort over biler}{23}{subsubsection*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Boulevarden mod Nytorv}{24}{subsubsection*.12}
->>>>>>> e3c2171b52937ee71621cccc4e30275fa5402cc9
+\contentsline {subsection}{\numberline {3.2.4}Flow kort over cykler}{23}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Flow kort over cykler}{25}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Flow kort over fodg\IeC {\ae }ngere}{23}{subsection.3.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.5}Flow kort over fodg\IeC {\ae }ngere}{25}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Observation af fodg\IeC {\ae }ngerfeltet}{24}{subsection.3.2.6}
 \defcounter {refsection}{0}\relax 
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {3.2.6}F\IeC {\o }rste observation}{26}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Dybere unders\IeC {\o }gelse for observationen af fodg\IeC {\ae }ngerfeltet}{25}{subsection.3.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.7}Dybbere unders\IeC {\o }gelse af f\IeC {\o }rste observation}{27}{subsection.3.2.7}
-=======
-\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Havnen mod Boulevarden}{25}{subsubsection*.15}
+\contentsline {subsection}{\numberline {3.2.8}Resultater af observation}{30}{subsection.3.2.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Havnen mod Nytorv}{25}{subsubsection*.16}
->>>>>>> e3c2171b52937ee71621cccc4e30275fa5402cc9
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.8}Resultater af observation}{31}{subsection.3.2.8}
-\defcounter {refsection}{0}\relax 
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {3.2.9}Adf\IeC {\ae }rdsregistrering}{33}{subsection.3.2.9}
+\contentsline {subsection}{\numberline {3.2.9}Adf\IeC {\ae }rdsregistrering}{32}{subsection.3.2.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}L\IeC {\o }sningforslag}{36}{section.3.3}
-=======
-\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Boulevarden mod Havnen}{26}{subsubsection*.18}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Boulevarden mod Nytorv}{26}{subsubsection*.19}
->>>>>>> e3c2171b52937ee71621cccc4e30275fa5402cc9
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.1}Cykelbane som l\IeC {\o }sningforslag for et tryggere omr\IeC {\r a}de i Nytorv}{36}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.2}Forskellen p\IeC {\r a} cykelsti og cykelbane}{36}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-<<<<<<< HEAD
 \contentsline {subsection}{\numberline {3.3.3}Cykelbane i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{37}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.4}Vurdering af l\IeC {\o }sning p\IeC {\r a} problemet i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{40}{subsection.3.3.4}
-=======
-\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Boulevarden}{27}{subsubsection*.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Nytorv}{27}{subsubsection*.23}
->>>>>>> e3c2171b52937ee71621cccc4e30275fa5402cc9
+\contentsline {subsection}{\numberline {3.3.5}Rundk\IeC {\o }rsel}{41}{subsection.3.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.5}Rundk\IeC {\o }rsel}{42}{subsection.3.3.5}
+\contentsline {subsubsection}{Fordel og Ulempe}{43}{subsubsection*.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Fordel og Ulempe}{44}{subsubsection*.30}
+\contentsline {subsubsection}{L\IeC {\o }sning eller ej?}{43}{subsubsection*.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{L\IeC {\o }sning eller ej?}{44}{subsubsection*.31}
+\contentsline {subsection}{\numberline {3.3.6}Bussluse}{43}{subsection.3.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}Bussluse}{44}{subsection.3.3.6}
+\contentsline {subsubsection}{Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{44}{subsubsection*.35}
 \defcounter {refsection}{0}\relax 
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {3.3.7}Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{51}{subsection.3.3.7}
+\contentsline {chapter}{\numberline {4}Perpektivering}{51}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Perpektivering}{53}{chapter.4}
+\contentsline {chapter}{\numberline {5}Diskussion}{57}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{59}{chapter.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Interviews}{63}{appendix.A}
-=======
-\contentsline {section}{\numberline {3.3}L\IeC {\o }sningforslag}{38}{section.3.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Cykelbane som l\IeC {\o }sningforslag for et tryggere omr\IeC {\r a}de i Nytorv}{38}{subsection.3.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Forskellen p\IeC {\r a} cykelsti og cykelbane}{38}{subsection.3.3.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Cykelbane i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{39}{subsection.3.3.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Vurdering af l\IeC {\o }sning p\IeC {\r a} problemet i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{42}{subsection.3.3.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.5}Rundk\IeC {\o }rsel}{44}{subsection.3.3.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Fordel og Ulempe}{46}{subsubsection*.36}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{L\IeC {\o }sning eller ej?}{46}{subsubsection*.37}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}Bussluse}{46}{subsection.3.3.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{47}{subsubsection*.39}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Perpektivering}{55}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{61}{chapter.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Interviews}{65}{appendix.A}
->>>>>>> e3c2171b52937ee71621cccc4e30275fa5402cc9
+\contentsline {chapter}{\numberline {A}Interviews}{61}{appendix.A}
