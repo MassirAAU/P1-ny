@@ -1,4 +1,24 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  14 DEC 2015 17:29
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  14 DEC 2015 21:18
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  14 DEC 2015 16:41
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  14 DEC 2015 12:31
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  14 DEC 2015 16:04
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  14 DEC 2015 13:58
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 entering extended mode
 **master.tex
 (master.tex
@@ -1331,6 +1351,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count332
 \@quotereset=\count333
+<<<<<<< HEAD
 (master.aux
 
 LaTeX Warning: Label `fig:cykelsti' multiply defined.
@@ -1376,6 +1397,131 @@ LaTeX Warning: Label `fig:cykelsti@cref' multiply defined.
 
 
 LaTeX Warning: Label `fig:cykelsti' multiply defined.
+=======
+(./master.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.186 ...Nytorv/√òster√•gade}{subsection.3.3.6}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `bussluse som l\IeC {\o }sningforslag for et tryggere omr\
+IeC {\r a}de i Nytorv/\IeC {\O }ster\IeC {\r a}gade' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.186 ...Nytorv/√òster√•gade}{subsection.3.3.6}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 ...Nytorv/√òster√•gade}{subsection.3.3.6}{}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.186 ...Nytorv/√òster√•gade}{subsection.3.3.6}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.187 ...de@cref}{{[subsection][6][3,3]3.3.6}{37}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `bussluse som l\IeC {\o }sningforslag for et tryggere omr\
+IeC {\r a}de i Nytorv/\IeC {\O }ster\IeC {\r a}gade@cref' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.187 ...de@cref}{{[subsection][6][3,3]3.3.6}{37}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.187 ...de@cref}{{[subsection][6][3,3]3.3.6}{37}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\O 
+l.189 ...Nytorv/√òster√•gade}{subsection.3.3.7}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `bussluse i Nytorv/\IeC {\O }ster\IeC {\r a}gade' multiply
+ defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\O 
+l.189 ...Nytorv/√òster√•gade}{subsection.3.3.7}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.189 ...Nytorv/√òster√•gade}{subsection.3.3.7}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\O 
+l.190 ...de@cref}{{[subsection][7][3,3]3.3.7}{38}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `bussluse i Nytorv/\IeC {\O }ster\IeC {\r a}gade@cref' mul
+tiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\O 
+l.190 ...de@cref}{{[subsection][7][3,3]3.3.7}{38}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.190 ...de@cref}{{[subsection][7][3,3]3.3.7}{38}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+)
+\openout1 = `master.aux'.
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 
 
 LaTeX Warning: Label `fig:cykelsti@cref' multiply defined.
@@ -1399,7 +1545,22 @@ LaTeX Font Info:    Try loading font information for T1+pplx on input line 21.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pplx.fd"
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
+<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+Overfull \hbox (30.19211pt too wide) in paragraph at lines 186--13
+\T1/cmr/m/n/10.95 i Nytorv/ÿsterÂgadesubsection.3.3.6 de i Nytorv/ÿsterÂgade@cr
+ef[subsection][6][3,3]3.3.637
+ []
+
+
+Overfull \hbox (54.05853pt too wide) in paragraph at lines 186--13
+\T1/cmr/m/n/10.95 ga-de3.3.738Bussluserne i Nytorv/ÿsterÂgadesubsection.3.3.7 g
+a-de@cref[subsection][7][3,3]3.3.738
+ []
+
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count334
 \scratchdimen=\dimen223
@@ -1486,8 +1647,39 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 19.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 19.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 19.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 19.
+ [1
 
+<<<<<<< HEAD
 <figures/aau_logo_en.pdf, id=150, 115.43124pt x 77.28876pt>
+=======
+<<<<<<< HEAD
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<figures/aau_logo_en.pdf, id=161, 115.43124pt x 77.28876pt>
+=======
+<<<<<<< HEAD
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<figures/aau_logo_en.pdf, id=161, 115.43124pt x 77.28876pt>
+=======
+<<<<<<< HEAD
+<figures/aau_logo_en.pdf, id=147, 115.43124pt x 77.28876pt>
+=======
+<<<<<<< HEAD
+<figures/aau_logo_en.pdf, id=143, 115.43124pt x 77.28876pt>
+=======
+<figures/aau_logo_en.pdf, id=154, 115.43124pt x 77.28876pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/aau_logo_en.pdf Graphic file (type pdf)
 
 <use figures/aau_logo_en.pdf>
@@ -1543,10 +1735,19 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 58.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 58.
+<<<<<<< HEAD
  [1
 
 {C:/Users/Aqauo_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figur
 es/aau_logo_en.pdf>]) (sections/colophon.tex
+=======
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.58 \end{titlepage}
+                     [1 <./figures/aau_logo_en.pdf>]) (./sections/colophon.tex
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 LaTeX Font Info:    Try loading font information for OMS+pplx on input line 4.
 LaTeX Font Info:    No file OMSpplx.fd. on input line 4.
 
@@ -1633,11 +1834,31 @@ LaTeX Font Info:    Font shape `U/msa/m/n' will be
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 11.40997pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
+<<<<<<< HEAD
 (Font)              scaled to size 8.33606pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 118.
  (synopsis.tex
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <17.28> not available
+=======
+(Font)              scaled to size 7.91925pt on input line 118.
+<<<<<<< HEAD
+ (./synopsis.tex
+=======
+<<<<<<< HEAD
+ (./synopsis.tex
+=======
+<<<<<<< HEAD
+ (./synopsis.tex)
+=======
+<<<<<<< HEAD
+ (./synopsis.tex)
+=======
+ (synopsis.tex
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 1.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -1739,7 +1960,19 @@ Underfull \hbox (badness 1983) in paragraph at lines 3--124
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (9.98643pt too wide) in paragraph at lines 124--125
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+Overfull \hbox (9.70999pt too wide) in paragraph at lines 124--125
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
  [][]
  []
 
@@ -1786,7 +2019,13 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-])
+]
+Overfull \hbox (45.6302pt too wide) in paragraph at lines 97--97
+ [][] [][]\T1/pplx/m/n/10.95 Bussluse som l¯s-ning-for-slag for et tryg-ge-re o
+m-rÂ-de i Nytorv/ÿsterÂgade[] [][]  
+ []
+
+)
 \tf@toc=\write6
 
 
@@ -1872,23 +2111,89 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 34.
+<<<<<<< HEAD
 [10] (sections/report/indledning/indledningmaster.tex
+=======
+<<<<<<< HEAD
+[10] (./sections/report/indledning/indledningmaster.tex
+=======
+<<<<<<< HEAD
+[10] (./sections/report/indledning/indledningmaster.tex
+=======
+<<<<<<< HEAD
+ [10
+
+
+]
+(./sections/report/indledning/indledningmaster.tex
+<<<<<<< HEAD
+=======
+=======
+[10] (sections/report/indledning/indledningmaster.tex
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 Kapitel 1.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
+<<<<<<< HEAD
 (sections/report/indledning/nytorvfornul.tex
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+(./sections/report/indledning/nytorvfornul.tex
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/opserveringspunkter2.PNG, id=240, 505.28775pt x 493.24
+=======
+<<<<<<< HEAD
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 
 LaTeX Warning: Citation 'Madsen2010' on page 1 undefined on input line 4.
 
 
+<<<<<<< HEAD
 <figures/Billederogfigur/opserveringspunkter2.PNG, id=243, 505.28775pt x 493.24
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/opserveringspunkter2.PNG, id=253, 505.28775pt x 493.24
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/opserveringspunkter2.PNG, id=253, 505.28775pt x 493.24
+=======
+<figures/Billederogfigur/opserveringspunkter2.PNG, id=234, 505.28775pt x 493.24
+=======
+<figures/Billederogfigur/opserveringspunkter2.PNG, id=248, 505.28775pt x 493.24
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 275pt>
 File: figures/Billederogfigur/opserveringspunkter2.PNG Graphic file (type png)
  <use figures/Billederogfigur/opserveringspunkter2.PNG>
@@ -2112,7 +2417,27 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
+<<<<<<< HEAD
 <figures/Billederogfigur/Nytorvoverblik.jpg, id=289, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Nytorvoverblik.jpg, id=291, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Nytorvoverblik.jpg, id=291, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Nytorvoverblik.jpg, id=278, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Nytorvoverblik.jpg, id=271, 963.6pt x 722.7pt>
+=======
+<figures/Billederogfigur/Nytorvoverblik.jpg, id=286, 963.6pt x 722.7pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/Nytorvoverblik.jpg Graphic file (type jpg)
 
 <use figures/Billederogfigur/Nytorvoverblik.jpg>
@@ -2131,6 +2456,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
+<<<<<<< HEAD
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2147,6 +2473,25 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 17.
 [12 <./figures/Billederogfigur/Nytorvoverblik.jpg>]
 <figures/Billederogfigur/skiltning.jpg, id=302, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/skiltning.jpg, id=300, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/skiltning.jpg, id=300, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/skiltning.jpg, id=288, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/skiltning.jpg, id=281, 541.02126pt x 963.6pt>
+=======
+<figures/Billederogfigur/skiltning.jpg, id=296, 541.02126pt x 963.6pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/skiltning.jpg Graphic file (type jpg)
 
 <use figures/Billederogfigur/skiltning.jpg>
@@ -2154,7 +2499,27 @@ Package pdftex.def Info: figures/Billederogfigur/skiltning.jpg used on input li
 ne 21.
 (pdftex.def)             Requested size: 108.20233pt x 192.71658pt.
 
+<<<<<<< HEAD
 <figures/Billederogfigur/Busstoppesteder.jpg, id=303, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Busstoppesteder.jpg, id=301, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Busstoppesteder.jpg, id=301, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Busstoppesteder.jpg, id=289, 541.02126pt x 963.6pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Busstoppesteder.jpg, id=282, 541.02126pt x 963.6pt>
+=======
+<figures/Billederogfigur/Busstoppesteder.jpg, id=297, 541.02126pt x 963.6pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/Busstoppesteder.jpg Graphic file (type jpg)
 
 <use figures/Billederogfigur/Busstoppesteder.jpg>
@@ -2186,7 +2551,28 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 42.
+<<<<<<< HEAD
 <figures/Billederogfigur/Fodfelt.jpg, id=312, 963.6pt x 722.7pt>
+=======
+
+<<<<<<< HEAD
+<figures/Billederogfigur/Fodfelt.jpg, id=315, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Fodfelt.jpg, id=315, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Fodfelt.jpg, id=302, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/Fodfelt.jpg, id=295, 963.6pt x 722.7pt>
+=======
+<figures/Billederogfigur/Fodfelt.jpg, id=310, 963.6pt x 722.7pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/Fodfelt.jpg Graphic file (type jpg)
 
 <use figures/Billederogfigur/Fodfelt.jpg>
@@ -2376,8 +2762,29 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 22.
+<<<<<<< HEAD
 [21]
 <figures/Billederogfigur/krydstaelling.png, id=351, 140.02313pt x 195.73125pt>
+=======
+[16]
+<<<<<<< HEAD
+<figures/Billederogfigur/krydstaelling.png, id=341, 140.02313pt x 195.73125pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/krydstaelling.png, id=341, 140.02313pt x 195.73125pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/krydstaelling.png, id=329, 140.02313pt x 195.73125pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/krydstaelling.png, id=322, 140.02313pt x 195.73125pt>
+=======
+<figures/Billederogfigur/krydstaelling.png, id=336, 140.02313pt x 195.73125pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/krydstaelling.png Graphic file (type png)
 
 <use figures/Billederogfigur/krydstaelling.png>
@@ -2717,7 +3124,27 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
+<<<<<<< HEAD
  <figures/Billederogfigur/konflikt.png, id=400, 376.40625pt x 208.52907pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/konflikt.png, id=386, 376.40625pt x 208.52907pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/konflikt.png, id=386, 376.40625pt x 208.52907pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/konflikt.png, id=374, 376.40625pt x 208.52907pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/konflikt.png, id=367, 376.40625pt x 208.52907pt>
+=======
+ <figures/Billederogfigur/konflikt.png, id=381, 376.40625pt x 208.52907pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/konflikt.png Graphic file (type png)
 
 <use figures/Billederogfigur/konflikt.png>
@@ -2754,6 +3181,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 26.
+<<<<<<< HEAD
 [30 <./figures/Billederogfigur/konflikt.png>]
 Overfull \hbox (4.04094pt too wide) in paragraph at lines 35--38
 []\T1/pplx/m/n/12 Formlen for-tÊl-ler om for-hol-det mel-lem di-stan-cen til de
@@ -2761,6 +3189,25 @@ t po-ten-ti-el-le punkt
  []
 
 <figures/Billederogfigur/tugraf.png, id=413, 320.69812pt x 252.19218pt>
+=======
+<<<<<<< HEAD
+[23] <figures/Billederogfigur/tugraf.png, id=394, 320.69812pt x 252.19218pt>
+=======
+<<<<<<< HEAD
+[23] <figures/Billederogfigur/tugraf.png, id=394, 320.69812pt x 252.19218pt>
+=======
+<<<<<<< HEAD
+[23] <figures/Billederogfigur/tugraf.png, id=382, 320.69812pt x 252.19218pt>
+=======
+<<<<<<< HEAD
+[23] <figures/Billederogfigur/tugraf.png, id=375, 320.69812pt x 252.19218pt>
+=======
+[23] <figures/Billederogfigur/tugraf.png, id=389, 320.69812pt x 252.19218pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/tugraf.png Graphic file (type png)
 
 <use figures/Billederogfigur/tugraf.png>
@@ -2828,11 +3275,31 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 143.
 
+<<<<<<< HEAD
 Overfull \hbox (2.63925pt too wide) in paragraph at lines 152--152
 []|\T1/pplx/m/n/12 Cykel| 
  []
 
 <figures/Billederogfigur/adfaerdsreg.png, id=424, 356.0803pt x 347.79938pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/adfaerdsreg.png, id=406, 356.0803pt x 347.79938pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/adfaerdsreg.png, id=406, 356.0803pt x 347.79938pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/adfaerdsreg.png, id=394, 356.0803pt x 347.79938pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/adfaerdsreg.png, id=387, 356.0803pt x 347.79938pt>
+=======
+<figures/Billederogfigur/adfaerdsreg.png, id=401, 356.0803pt x 347.79938pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/adfaerdsreg.png Graphic file (type png)
 
 <use figures/Billederogfigur/adfaerdsreg.png>
@@ -2883,7 +3350,27 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 199.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 199.
+<<<<<<< HEAD
  <figures/Billederogfigur/obstabel.png, id=434, 481.04718pt x 363.60844pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/obstabel.png, id=416, 481.04718pt x 363.60844pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/obstabel.png, id=416, 481.04718pt x 363.60844pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/obstabel.png, id=404, 481.04718pt x 363.60844pt>
+=======
+<<<<<<< HEAD
+ <figures/Billederogfigur/obstabel.png, id=397, 481.04718pt x 363.60844pt>
+=======
+ <figures/Billederogfigur/obstabel.png, id=411, 481.04718pt x 363.60844pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/obstabel.png Graphic file (type png)
 
 <use figures/Billederogfigur/obstabel.png>
@@ -2891,7 +3378,27 @@ Package pdftex.def Info: figures/Billederogfigur/obstabel.png used on input lin
 e 208.
 (pdftex.def)             Requested size: 481.046pt x 363.60754pt.
 
+<<<<<<< HEAD
 <figures/Billederogfigur/obstabelresult.png, id=435, 531.48563pt x 379.4175pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/obstabelresult.png, id=417, 531.48563pt x 379.4175pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/obstabelresult.png, id=417, 531.48563pt x 379.4175pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/obstabelresult.png, id=405, 531.48563pt x 379.4175pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/obstabelresult.png, id=398, 531.48563pt x 379.4175pt>
+=======
+<figures/Billederogfigur/obstabelresult.png, id=412, 531.48563pt x 379.4175pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/obstabelresult.png Graphic file (type png)
 
 <use figures/Billederogfigur/obstabelresult.png>
@@ -2983,6 +3490,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
  []
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti.png, id=437, 320.69812pt x 239.39438pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti.png, id=437, 320.69812pt x 239.39438pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti.png, id=424, 320.69812pt x 239.39438pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti.png, id=417, 320.69812pt x 239.39438pt>
+=======
+<figures/Billederogfigur/cykelsti.png, id=431, 320.69812pt x 239.39438pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+File: figures/Billederogfigur/cykelsti.png Graphic file (type png)
+
+<use figures/Billederogfigur/cykelsti.png>
+Package pdftex.def Info: figures/Billederogfigur/cykelsti.png used on input lin
+e 17.
+(pdftex.def)             Requested size: 320.69733pt x 239.39378pt.
+
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -3015,6 +3549,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
@@ -3025,6 +3560,25 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 28.
 [40 <./figures/Billederogfigur/cykelsti.png>]
 <figures/Billederogfigur/ruteplanlaegning.png, id=470, 405.01312pt x 335.75438p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/ruteplanlaegning.png, id=444, 405.01312pt x 335.75438p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/ruteplanlaegning.png, id=444, 405.01312pt x 335.75438p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/ruteplanlaegning.png, id=432, 405.01312pt x 335.75438p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/ruteplanlaegning.png, id=424, 405.01312pt x 335.75438p
+=======
+<figures/Billederogfigur/ruteplanlaegning.png, id=438, 405.01312pt x 335.75438p
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 t>
 File: figures/Billederogfigur/ruteplanlaegning.png Graphic file (type png)
  <use figures/Billederogfigur/ruteplanlaegning.png>
@@ -3045,16 +3599,58 @@ Package babel Info: Redefining danish shorthand "~
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 40.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 40.
 [41 <./figures/Billederogfigur/ruteplanlaegning.png>]
 <figures/Billederogfigur/friiscykeltsti.png, id=477, 371.88937pt x 173.89969pt>
+=======
+(babel)             in language  on input line 39.
+[32 <./figures/Billederogfigur/ruteplanlaegning.png>]
+<<<<<<< HEAD
+<figures/Billederogfigur/friiscykeltsti.png, id=452, 371.88937pt x 173.89969pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/friiscykeltsti.png, id=452, 371.88937pt x 173.89969pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/friiscykeltsti.png, id=439, 371.88937pt x 173.89969pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/friiscykeltsti.png, id=432, 371.88937pt x 173.89969pt>
+=======
+<figures/Billederogfigur/friiscykeltsti.png, id=445, 371.88937pt x 173.89969pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/friiscykeltsti.png Graphic file (type png)
 <use figures/Billederogfigur/friiscykeltsti.png>
 Package pdftex.def Info: figures/Billederogfigur/friiscykeltsti.png used on inp
 ut line 44.
 (pdftex.def)             Requested size: 371.88846pt x 173.89925pt.
 
+<<<<<<< HEAD
 <figures/Billederogfigur/cykelsti_ved_mac.png, id=478, 353.82187pt x 238.64156p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti_ved_mac.png, id=453, 353.82187pt x 238.64156p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti_ved_mac.png, id=453, 353.82187pt x 238.64156p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti_ved_mac.png, id=440, 353.82187pt x 238.64156p
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/cykelsti_ved_mac.png, id=433, 353.82187pt x 238.64156p
+=======
+<figures/Billederogfigur/cykelsti_ved_mac.png, id=446, 353.82187pt x 238.64156p
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 t>
 File: figures/Billederogfigur/cykelsti_ved_mac.png Graphic file (type png)
  <use figures/Billederogfigur/cykelsti_ved_mac.png>
@@ -3062,7 +3658,27 @@ Package pdftex.def Info: figures/Billederogfigur/cykelsti_ved_mac.png used on i
 nput line 53.
 (pdftex.def)             Requested size: 353.821pt x 238.64096pt.
 
+<<<<<<< HEAD
 <figures/Billederogfigur/bogogide.png, id=479, 429.10312pt x 204.01219pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/bogogide.png, id=454, 429.10312pt x 204.01219pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/bogogide.png, id=454, 429.10312pt x 204.01219pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/bogogide.png, id=441, 429.10312pt x 204.01219pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/bogogide.png, id=434, 429.10312pt x 204.01219pt>
+=======
+<figures/Billederogfigur/bogogide.png, id=447, 429.10312pt x 204.01219pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/bogogide.png Graphic file (type png)
 
 <use figures/Billederogfigur/bogogide.png>
@@ -3070,7 +3686,27 @@ Package pdftex.def Info: figures/Billederogfigur/bogogide.png used on input lin
 e 61.
 (pdftex.def)             Requested size: 429.10207pt x 204.01169pt.
 
+<<<<<<< HEAD
 <figures/Billederogfigur/osterbro.png, id=480, 298.11375pt x 290.58563pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/osterbro.png, id=455, 298.11375pt x 290.58563pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/osterbro.png, id=455, 298.11375pt x 290.58563pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/osterbro.png, id=442, 298.11375pt x 290.58563pt>
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/osterbro.png, id=435, 298.11375pt x 290.58563pt>
+=======
+<figures/Billederogfigur/osterbro.png, id=448, 298.11375pt x 290.58563pt>
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 File: figures/Billederogfigur/osterbro.png Graphic file (type png)
 
 <use figures/Billederogfigur/osterbro.png>
@@ -3136,6 +3772,7 @@ Package babel Info: Redefining danish shorthand "~
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 87.
 [44 <./figures/Billederogfigur/osterbro.png>])
 (sections/report/losningforslag/rundkoersel.tex
@@ -3150,6 +3787,27 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
 <figures/Billederogfigur/rundkorselplace.png, id=501, 408.02437pt x 277.78781pt
+=======
+(babel)             in language  on input line 4.
+[35 <./figures/Billederogfigur/osterbro.png>]
+<<<<<<< HEAD
+<figures/Billederogfigur/rundkorselplace.png, id=476, 408.02437pt x 277.78781pt
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/rundkorselplace.png, id=476, 408.02437pt x 277.78781pt
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/rundkorselplace.png, id=464, 408.02437pt x 277.78781pt
+=======
+<<<<<<< HEAD
+<figures/Billederogfigur/rundkorselplace.png, id=457, 408.02437pt x 277.78781pt
+=======
+<figures/Billederogfigur/rundkorselplace.png, id=470, 408.02437pt x 277.78781pt
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 >
 File: figures/Billederogfigur/rundkorselplace.png Graphic file (type png)
  <use figures/Billederogfigur/rundkorselplace.png>
@@ -3186,12 +3844,42 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
+<<<<<<< HEAD
 [46 <./figures/Billederogfigur/rundkorselplace.png>])
 (sections/report/losningforslag/bussluse.tex
+=======
+[36 <./figures/Billederogfigur/rundkorselplace.png>])
+(./sections/report/losningforslag/bussluse.tex
+Overfull \hbox (28.20016pt too wide) in paragraph at lines 1--1
+ |[]\T1/pplx/b/n/12 Bussluse som l¯s-ning-for-slag for et tryg-ge-re om-rÂ-de i
+ Nytorv/ÿsterÂgade| 
+ []
+
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+
+Overfull \hbox (21.7535pt too wide) in paragraph at lines 4--12
+\T1/pplx/m/n/10.95 ning. Der over-ve-jes et l¯s-ning-for-slag, som kan bru-ges 
+i om-rÂ-det pÂ Nytorv/ÿsterÂgade.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3206,6 +3894,7 @@ Package babel Info: Redefining danish shorthand "~
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 6.
 [47]
 Overfull \hbox (46.75209pt too wide) in paragraph at lines 7--8
@@ -3246,6 +3935,33 @@ Overfull \hbox (31.02191pt too wide) in paragraph at lines 24--52
 e i Nytorv/ÿsterÂgade
  []
 
+=======
+(babel)             in language  on input line 12.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+[37]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 19.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 19.
+)) (./sections/report/perpektivering.tex
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+[37])) (./sections/report/diskussion.tex
+=======
+<<<<<<< HEAD
+[37])) (./sections/report/diskussion.tex
+=======
+[37])) (sections/report/perpektivering.tex
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -3259,6 +3975,7 @@ Package babel Info: Redefining danish shorthand "~
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 52.
 [48]
 
@@ -3282,6 +3999,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+=======
+(babel)             in language  on input line 1.
+) (./sections/report/diskussion.tex
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
@@ -3338,6 +4059,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+<<<<<<< HEAD
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -3411,6 +4133,21 @@ Package pdftex.def Info: figures/Billederogfigur/Losningsforslag_cykelsti/cykel
 sti_ved_knudepunktet.png used on input line 32.
 (pdftex.def)             Requested size: 718.93419pt x 499.11345pt.
 ) (sections/report/diskussion.tex
+=======
+)
+
+LaTeX Warning: Empty bibliography on input line 43.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 45.
+[41] (./sections/report/appAname.tex
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -3418,7 +4155,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
+<<<<<<< HEAD
 (babel)             in language  on input line 1.
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+(babel)             in language  on input line 43.
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "|
@@ -3435,6 +4182,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -3449,7 +4197,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+=======
+<<<<<<< HEAD
+(babel)             in language  on input line 42.
+ (./sections/report/appAname.tex
+=======
+(babel)             in language  on input line 43.
+ (sections/report/appAname.tex
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 Package babel Info: Redefining danish shorthand "|
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
@@ -3457,7 +4215,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+<<<<<<< HEAD
 [58]
+=======
+<<<<<<< HEAD
+=======
+ [43
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -3465,6 +4229,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
+<<<<<<< HEAD
+=======
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
@@ -3472,6 +4241,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+<<<<<<< HEAD
 [59]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -3486,6 +4256,11 @@ Package babel Info: Redefining danish shorthand "~
 
 ]
 Kapitel 5.
+=======
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+[42]
+Bilag A.
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -3880,18 +4655,122 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 47.
+<<<<<<< HEAD
 [70]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
+=======
+[43
+
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+(babel)             in language  on input line 46.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
+ (./master.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
+Package rerunfilecheck Info: File `master.out' has not changed.
+<<<<<<< HEAD
+(rerunfilecheck)             Checksum: D5FC971D924D415A0AB0580B78C0A505;2859.
+=======
+(rerunfilecheck)             Checksum: 9B7CA9152D631D52D69C5D7B720AB446;2810.
+=======
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 (babel)             in language  on input line 47.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
- (master.aux)
+ (./master.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.186 ...Nytorv/√òster√•gade}{subsection.3.3.6}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.186 ...Nytorv/√òster√•gade}{subsection.3.3.6}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.187 ...de@cref}{{[subsection][6][3,3]3.3.6}{37}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.187 ...de@cref}{{[subsection][6][3,3]3.3.6}{37}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\O 
+l.189 ...Nytorv/√òster√•gade}{subsection.3.3.7}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.189 ...Nytorv/√òster√•gade}{subsection.3.3.7}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\O 
+l.190 ...de@cref}{{[subsection][7][3,3]3.3.7}{38}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.190 ...de@cref}{{[subsection][7][3,3]3.3.7}{38}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
 Package rerunfilecheck Info: File `master.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 43FD4E5BAD4F6E911F0EE2888460F4E7;2960.
+=======
+<<<<<<< HEAD
+(rerunfilecheck)             Checksum: 946F054279A9462F7B7AB730C66EC267;3100.
+=======
+<<<<<<< HEAD
+(rerunfilecheck)             Checksum: 946F054279A9462F7B7AB730C66EC267;3100.
+=======
+(rerunfilecheck)             Checksum: A2AE0FCD4463CACE0CA49F993A184039;3015.
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -3908,6 +4787,7 @@ Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'master.run.xml'.
+<<<<<<< HEAD
  ) 
 Here is how much of TeX's memory you used:
  28215 strings out of 493673
@@ -3915,9 +4795,99 @@ Here is how much of TeX's memory you used:
  1063047 words of memory out of 3000000
  30754 multiletter control sequences out of 15000+200000
  57910 words of font info for 106 fonts, out of 3000000 for 9000
+=======
+\openout1 = `master.run.xml'.
+
+
+Overfull \hbox (5.13715pt too wide) in paragraph at lines 186--47
+\T1/pplx/m/n/10.95 tryg-ge-re om-rÂ-de i Nytorv/ÿsterÂgade@cref  ÿsterÂ-ga-de ÿ
+sterÂ-ga-de@cref                     
+ []
+
+ ) 
+Here is how much of TeX's memory you used:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+ 28143 strings out of 493089
+ 515016 string characters out of 6134841
+ 1063588 words of memory out of 5000000
+ 30855 multiletter control sequences out of 15000+600000
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+ 28145 strings out of 493089
+ 515038 string characters out of 6134841
+ 1063198 words of memory out of 5000000
+ 30860 multiletter control sequences out of 15000+600000
+ 57862 words of font info for 102 fonts, out of 8000000 for 9000
+=======
+<<<<<<< HEAD
+ 28128 strings out of 493089
+ 514749 string characters out of 6134841
+ 1063196 words of memory out of 5000000
+ 30848 multiletter control sequences out of 15000+600000
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+ 57548 words of font info for 101 fonts, out of 8000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 64i,14n,92p,1770b,1747s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2015/t
+<<<<<<< HEAD
+exmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (54 pages, 4271708 bytes).
+=======
+<<<<<<< HEAD
+exmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (54 pages, 4271708 bytes).
+=======
+exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2015/tex
+<<<<<<< HEAD
+mf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (53 pages, 4276146 bytes).
+PDF statistics:
+ 564 PDF objects out of 1000 (max. 8388607)
+ 463 compressed objects within 5 object streams
+ 126 named destinations out of 1000 (max. 500000)
+ 388 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+mf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (51 pages, 4247008 bytes).
+PDF statistics:
+ 543 PDF objects out of 1000 (max. 8388607)
+ 445 compressed objects within 5 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 380 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 28147 strings out of 493673
+ 515375 string characters out of 3141517
+ 1062957 words of memory out of 3000000
+ 30725 multiletter control sequences out of 15000+200000
+ 57862 words of font info for 102 fonts, out of 3000000 for 9000
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
  1030 hyphenation exceptions out of 8191
  64i,14n,92p,1769b,1747s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Aqauo_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+<<<<<<< HEAD
 600\ectt1095.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.
 enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
@@ -3930,4 +4900,30 @@ PDF statistics:
  712 PDF objects out of 1000 (max. 8388607)
  161 named destinations out of 1000 (max. 500000)
  436 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+600\ectt1095.pk> <C:\Users\Aqauo_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
+knappen\ec\dpi600\ectt1000.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvip
+s/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (55 pages, 4462700 bytes).
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+PDF statistics:
+ 574 PDF objects out of 1000 (max. 8388607)
+ 472 compressed objects within 5 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 404 words of extra memory for PDF output out of 10000 (max. 10000000)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 63e6eb872d0f9bb79f22d02dad3a73a059ef41f7
+>>>>>>> 528a1a2216a826a478bbb9188d326a4bf4d0b401
+>>>>>>> d79b5de7ba2d919c07dbcbd0f7436c94689e2408
+>>>>>>> 740001a398433cb15f12b565b2c228a47cbfcaeb
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 

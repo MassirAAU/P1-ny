@@ -94,10 +94,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{L\IeC {\o }sning eller ej?}{47}{subsubsection*.37}
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {subsection}{\numberline {3.3.6}Bussluse}{47}{subsection.3.3.6}
+=======
+\contentsline {subsection}{\numberline {3.3.6}Bussluse som l\IeC {\o }sningforslag for et tryggere omr\IeC {\r a}de i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{37}{subsection.3.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.7}Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{38}{subsection.3.3.7}
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Perpektivering}{55}{chapter.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Diskussion}{61}{chapter.5}
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {chapter}{\numberline {A}Interviews}{65}{appendix.A}
+=======
+\contentsline {chapter}{\numberline {A}Appendix A name}{43}{appendix.A}
+>>>>>>> 8282726ffd2a8822c3af4e3f8fbecc75557bf017
