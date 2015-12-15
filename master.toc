@@ -98,8 +98,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.7}Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{38}{subsection.3.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Perpektivering}{39}{chapter.4}
+\contentsline {chapter}{\numberline {4}Perpektivering}{41}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{41}{chapter.5}
+\contentsline {chapter}{\numberline {5}Diskussion}{43}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Appendix A name}{43}{appendix.A}
+\contentsline {chapter}{\numberline {A}Appendix A name}{45}{appendix.A}
