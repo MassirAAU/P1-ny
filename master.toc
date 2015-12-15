@@ -96,10 +96,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.6}Bussluse}{47}{subsection.3.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Perpektivering}{51}{chapter.4}
+\contentsline {chapter}{\numberline {4}Perpektivering}{55}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{55}{chapter.5}
+\contentsline {chapter}{\numberline {5}Diskussion}{61}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografi}{59}{chapter*.41}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Interviews}{61}{appendix.A}
+\contentsline {chapter}{\numberline {A}Interviews}{65}{appendix.A}
