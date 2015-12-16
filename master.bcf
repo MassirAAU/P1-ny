@@ -2251,6 +2251,7 @@
     <bcf:citekey order="14">forbudsskilt2007</bcf:citekey>
     <bcf:citekey order="15">e49</bcf:citekey>
     <bcf:citekey order="16">e49</bcf:citekey>
+<<<<<<< HEAD
     <bcf:citekey order="17">e49</bcf:citekey>
     <bcf:citekey order="18">e49</bcf:citekey>
     <bcf:citekey order="19">vejlednigomss2013</bcf:citekey>
@@ -2264,6 +2265,19 @@
     <bcf:citekey order="27">konfli</bcf:citekey>
     <bcf:citekey order="28">sweconflict</bcf:citekey>
     <bcf:citekey order="29">sweconflict</bcf:citekey>
+=======
+    <bcf:citekey order="17">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="18">Kvale2009</bcf:citekey>
+    <bcf:citekey order="19">kvn</bcf:citekey>
+    <bcf:citekey order="20">aabcykelby</bcf:citekey>
+    <bcf:citekey order="21">sweconflict</bcf:citekey>
+    <bcf:citekey order="22">sweconflict</bcf:citekey>
+    <bcf:citekey order="23">konfli</bcf:citekey>
+    <bcf:citekey order="24">konfli</bcf:citekey>
+    <bcf:citekey order="25">konfli</bcf:citekey>
+    <bcf:citekey order="26">sweconflict</bcf:citekey>
+    <bcf:citekey order="27">sweconflict</bcf:citekey>
+>>>>>>> bcd6071c7ca95367e606ba218442e68ad94b90c5
   </bcf:section>
   <bcf:sortlist section="0" name="nty" type="entry" sortscheme="nty">
   <bcf:sorting>
