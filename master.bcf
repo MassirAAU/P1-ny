@@ -65,7 +65,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldate</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -121,15 +121,15 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortscheme</bcf:key>
-      <bcf:value>nty</bcf:value>
+      <bcf:value>nyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
@@ -319,7 +319,8 @@
     <bcf:option>doi</bcf:option>
     <bcf:option>eprint</bcf:option>
     <bcf:option>related</bcf:option>
-    <bcf:option>subentry</bcf:option>
+    <bcf:option>dashed</bcf:option>
+    <bcf:option>mergedate</bcf:option>
   </bcf:optionscope>
   <bcf:optionscope type="PER_TYPE">
     <bcf:option>alphaothers</bcf:option>
@@ -884,12 +885,12 @@
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
@@ -2235,33 +2236,63 @@
     <bcf:datasource type="file" datatype="bibtex">bib/mybib.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Madsen2010</bcf:citekey>
-    <bcf:citekey order="2">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="3">DEFT2006</bcf:citekey>
-    <bcf:citekey order="4">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="5">SP2015</bcf:citekey>
-    <bcf:citekey order="6">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="7">gm2015</bcf:citekey>
-    <bcf:citekey order="8">gm2015</bcf:citekey>
-    <bcf:citekey order="9">hs</bcf:citekey>
-    <bcf:citekey order="10">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="11">forbudsskilt2007</bcf:citekey>
-    <bcf:citekey order="12">forbudsskilt2007</bcf:citekey>
-    <bcf:citekey order="13">e49</bcf:citekey>
-    <bcf:citekey order="14">e49</bcf:citekey>
-    <bcf:citekey order="15">e49</bcf:citekey>
-    <bcf:citekey order="16">e49</bcf:citekey>
-    <bcf:citekey order="17">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="18">aabcykelby</bcf:citekey>
-    <bcf:citekey order="19">sweconflict</bcf:citekey>
-    <bcf:citekey order="20">sweconflict</bcf:citekey>
-    <bcf:citekey order="21">konfli</bcf:citekey>
-    <bcf:citekey order="22">konfli</bcf:citekey>
-    <bcf:citekey order="23">konfli</bcf:citekey>
-    <bcf:citekey order="24">sweconflict</bcf:citekey>
-    <bcf:citekey order="25">sweconflict</bcf:citekey>
+    <bcf:citekey order="1">arealplan</bcf:citekey>
+    <bcf:citekey order="2">gm2015</bcf:citekey>
+    <bcf:citekey order="3">gm2015</bcf:citekey>
+    <bcf:citekey order="4">arealplan</bcf:citekey>
+    <bcf:citekey order="5">omlaegning</bcf:citekey>
+    <bcf:citekey order="6">omlaegning</bcf:citekey>
+    <bcf:citekey order="7">bystorelse</bcf:citekey>
+    <bcf:citekey order="8">attraktiv</bcf:citekey>
+    <bcf:citekey order="9">shopping</bcf:citekey>
+    <bcf:citekey order="10">busser</bcf:citekey>
+    <bcf:citekey order="11">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="12">DEFT2006</bcf:citekey>
+    <bcf:citekey order="13">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="14">SP2015</bcf:citekey>
+    <bcf:citekey order="15">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="16">gm2015</bcf:citekey>
+    <bcf:citekey order="17">gm2015</bcf:citekey>
+    <bcf:citekey order="18">hs</bcf:citekey>
+    <bcf:citekey order="19">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="20">forbudsskilt2007</bcf:citekey>
+    <bcf:citekey order="21">forbudsskilt2007</bcf:citekey>
+    <bcf:citekey order="22">e49</bcf:citekey>
+    <bcf:citekey order="23">e49</bcf:citekey>
+    <bcf:citekey order="24">e49</bcf:citekey>
+    <bcf:citekey order="25">e49</bcf:citekey>
+    <bcf:citekey order="26">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="27">reglershared</bcf:citekey>
+    <bcf:citekey order="28">reglershared</bcf:citekey>
+    <bcf:citekey order="29">Kvale2009</bcf:citekey>
+    <bcf:citekey order="30">kvn</bcf:citekey>
+    <bcf:citekey order="31">tallinger</bcf:citekey>
+    <bcf:citekey order="32">gm2015</bcf:citekey>
+    <bcf:citekey order="33">gm2015</bcf:citekey>
+    <bcf:citekey order="34">gm2015</bcf:citekey>
+    <bcf:citekey order="35">gm2015</bcf:citekey>
+    <bcf:citekey order="36">gm2015</bcf:citekey>
+    <bcf:citekey order="37">gm2015</bcf:citekey>
+    <bcf:citekey order="38">aabcykelby</bcf:citekey>
+    <bcf:citekey order="39">sweconflict</bcf:citekey>
+    <bcf:citekey order="40">sweconflict</bcf:citekey>
+    <bcf:citekey order="41">konflikt</bcf:citekey>
+    <bcf:citekey order="42">konflikt</bcf:citekey>
+    <bcf:citekey order="43">konflikt</bcf:citekey>
+    <bcf:citekey order="44">sweconflict</bcf:citekey>
+    <bcf:citekey order="45">sweconflict</bcf:citekey>
+    <bcf:citekey order="46">adf</bcf:citekey>
+    <bcf:citekey order="47">adf</bcf:citekey>
+    <bcf:citekey order="48">adf</bcf:citekey>
+    <bcf:citekey order="49">adf</bcf:citekey>
+    <bcf:citekey order="50">adf</bcf:citekey>
+    <bcf:citekey order="51">adf</bcf:citekey>
+    <bcf:citekey order="52">graz</bcf:citekey>
+    <bcf:citekey order="53">sonne</bcf:citekey>
+    <bcf:citekey order="54">sonne</bcf:citekey>
+    <bcf:citekey order="55">sonne</bcf:citekey>
   </bcf:section>
-  <bcf:sortlist section="0" name="nty" type="entry" sortscheme="nty">
+  <bcf:sortlist section="0" name="nyt" type="entry" sortscheme="nyt">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
@@ -2278,12 +2309,12 @@
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>

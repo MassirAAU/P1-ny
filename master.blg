@@ -1,31 +1,40 @@
 [0] Config.pm:324> INFO - This is Biber 2.1
 [0] Config.pm:327> INFO - Logfile is 'master.blg'
-[77] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
-[77] Biber.pm:333> INFO - Reading 'master.bcf'
-[421] Biber.pm:645> INFO - Found 11 citekeys in bib section 0
-[452] Biber.pm:2977> INFO - Processing section 0
-[483] Biber.pm:3115> INFO - Looking for bibtex format file 'bib/mybib.bib' for section 0
-[509] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
-[525] bibtex.pm:895> INFO - Found BibTeX data source 'bib/mybib.bib'
-[527] Utils.pm:146> WARN - Duplicate entry key: 'vejlednigomss2013' in file 'bib/mybib.bib', skipping ...
-[539] Utils.pm:146> WARN - Datamodel: Entry 'vejlednigomss2013' (bib/mybib.bib): Invalid format '2015-11-17"' of date field 'urldate' - ignoring
-[547] Utils.pm:146> WARN - Datamodel: Entry 'gm2015' (bib/mybib.bib): Invalid format '2015-12-15"' of date field 'urldate' - ignoring
-[550] Utils.pm:146> WARN - Datamodel: Entry 'forbudsskilt2007' (bib/mybib.bib): Invalid format '2015-12-14"' of date field 'urldate' - ignoring
-[567] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 10, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 18, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 27, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 35, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 43, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 51, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 59, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 68, warning: 1 characters of junk seen at toplevel
-[568] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 78, warning: 1 characters of junk seen at toplevel
-[569] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\fOjFgJEjvr\mybib.bib_7976.utf8, line 86, warning: 1 characters of junk seen at toplevel
-[570] Utils.pm:146> WARN - I didn't find a database entry for 'Madsen2010' (section 0)
-[570] Utils.pm:146> WARN - I didn't find a database entry for 'konfli' (section 0)
-[730] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[730] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[730] Biber.pm:2854> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'da-DK'
-[751] bbl.pm:505> INFO - Writing 'master.bbl' with encoding 'UTF-8'
-[796] bbl.pm:596> INFO - Output to master.bbl
-[805] Biber.pm:106> INFO - WARNINGS: 16
+[89] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
+[90] Biber.pm:333> INFO - Reading 'master.bcf'
+[449] Biber.pm:645> INFO - Found 23 citekeys in bib section 0
+[483] Biber.pm:2977> INFO - Processing section 0
+[512] Biber.pm:3115> INFO - Looking for bibtex format file 'bib/mybib.bib' for section 0
+[571] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[607] bibtex.pm:895> INFO - Found BibTeX data source 'bib/mybib.bib'
+[610] Utils.pm:146> WARN - Duplicate entry key: 'vejlednigomss2013' in file 'bib/mybib.bib', skipping ...
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 10, warning: 1 characters of junk seen at toplevel
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 18, warning: 1 characters of junk seen at toplevel
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 37, warning: 1 characters of junk seen at toplevel
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 45, warning: 1 characters of junk seen at toplevel
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 53, warning: 1 characters of junk seen at toplevel
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 61, warning: 1 characters of junk seen at toplevel
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 69, warning: 1 characters of junk seen at toplevel
+[676] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 78, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 88, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 96, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 104, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 114, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 123, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 131, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 139, warning: 1 characters of junk seen at toplevel
+[677] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 147, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 155, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 163, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 171, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 179, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 187, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 195, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 203, warning: 1 characters of junk seen at toplevel
+[678] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\_YwLgCJCbj\mybib.bib_9272.utf8, line 212, warning: 1 characters of junk seen at toplevel
+[1079] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1079] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1079] Biber.pm:2854> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'da-DK'
+[1156] bbl.pm:505> INFO - Writing 'master.bbl' with encoding 'UTF-8'
+[1282] bbl.pm:596> INFO - Output to master.bbl
+[1285] Biber.pm:106> INFO - WARNINGS: 25
