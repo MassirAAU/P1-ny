@@ -98,4 +98,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Diskussion}{59}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Interviews}{63}{appendix.A}
+\contentsline {chapter}{Bibliografi}{63}{chapter*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Interviews}{65}{appendix.A}
