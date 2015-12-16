@@ -1,0 +1,83 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{konfli}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3e3e5c13473dcaf2a8c696c8ea1a3afe}{Cour\bibnamedelimb Lund\bibnamedelimb og\bibnamedelimb Puk\bibnamedelimb Kristine\bibnamedelima Andersson}{C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod}{Belinda}{B\bibinitperiod}{la}{l\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3e3e5c13473dcaf2a8c696c8ea1a3afe}
+      \strng{fullhash}{3e3e5c13473dcaf2a8c696c8ea1a3afe}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Konfliktteknikstudier}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.trafitec.dk/sites/default/files/publications/konfliktteknikstudier%20i%20kbh%20bykryds.pdf
+      \endverb
+    \endentry
+    \entry{aabcykelby}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0f6d3bb785ae84c5364be3c374fa2374}{Kommune}{K\bibinitperiod}{Aalborg}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0f6d3bb785ae84c5364be3c374fa2374}
+      \strng{fullhash}{0f6d3bb785ae84c5364be3c374fa2374}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aalborg Cykelby}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.aalborgcykelby.dk/aalborg-cykelby
+      \endverb
+    \endentry
+    \entry{sweconflict}{online}{}
+      \name{author}{1}{}{%
+        {{hash=91dcf22ab829df5609f1fe3bc0aca4de}{University}{U\bibinitperiod}{Lund}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{91dcf22ab829df5609f1fe3bc0aca4de}
+      \strng{fullhash}{91dcf22ab829df5609f1fe3bc0aca4de}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Swedish Traffic Conflict Technique}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.tft.lth.se/fileadmin/tft/video_in_traffic/Swedish_conflict_technique.pdf
+      \endverb
+    \endentry
+  \endsortlist
+  \missing{Madsen2010}
+\endrefsection
+\endinput
+

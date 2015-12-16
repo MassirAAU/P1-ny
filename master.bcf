@@ -2236,6 +2236,14 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">Madsen2010</bcf:citekey>
+    <bcf:citekey order="2">aabcykelby</bcf:citekey>
+    <bcf:citekey order="3">sweconflict</bcf:citekey>
+    <bcf:citekey order="4">sweconflict</bcf:citekey>
+    <bcf:citekey order="5">konfli</bcf:citekey>
+    <bcf:citekey order="6">konfli</bcf:citekey>
+    <bcf:citekey order="7">konfli</bcf:citekey>
+    <bcf:citekey order="8">sweconflict</bcf:citekey>
+    <bcf:citekey order="9">sweconflict</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty" type="entry" sortscheme="nty">
   <bcf:sorting>
