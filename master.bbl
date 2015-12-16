@@ -19,24 +19,60 @@
 
 \refsection{0}
   \sortlist{nty}{nty}
-    \entry{konfli}{online}{}
+    \entry{hs}{online}{}
       \name{author}{1}{}{%
-        {{hash=3e3e5c13473dcaf2a8c696c8ea1a3afe}{Cour\bibnamedelimb Lund\bibnamedelimb og\bibnamedelimb Puk\bibnamedelimb Kristine\bibnamedelima Andersson}{C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod}{Belinda}{B\bibinitperiod}{la}{l\bibinitperiod}{}{}}%
+        {{hash=04252d95b333d21624eb6dff8d9bd543}{aps}{a\bibinitperiod}{Bedrebillist}{B\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3e3e5c13473dcaf2a8c696c8ea1a3afe}
-      \strng{fullhash}{3e3e5c13473dcaf2a8c696c8ea1a3afe}
-      \field{sortinit}{C}
-      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \strng{namehash}{04252d95b333d21624eb6dff8d9bd543}
+      \strng{fullhash}{04252d95b333d21624eb6dff8d9bd543}
+      \field{sortinit}{a}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Konfliktteknikstudier}
+      \field{title}{Bedre bilist}
       \field{urlday}{15}
       \field{urlmonth}{12}
       \field{urlyear}{2015}
-      \field{year}{2009}
+      \field{year}{2015}
       \verb{url}
-      \verb http://www.trafitec.dk/sites/default/files/publications/konfliktteknikstudier%20i%20kbh%20bykryds.pdf
+      \verb http://www.bedrebilist.dk/trafiktavler-vejskilte/
       \endverb
+    \endentry
+    \entry{e49}{online}{}
+      \name{author}{1}{}{%
+        {{hash=04252d95b333d21624eb6dff8d9bd543}{aps}{a\bibinitperiod}{Bedrebillist}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{04252d95b333d21624eb6dff8d9bd543}
+      \strng{fullhash}{04252d95b333d21624eb6dff8d9bd543}
+      \field{sortinit}{a}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{E49 Gågade}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.bedrebilist.dk/trafiktavler-vejskilte/
+      \endverb
+    \endentry
+    \entry{gm2015}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8b36e9207c24c76e6719268e49201d94}{Google}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{googlemaps}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://www.google.dk/maps/@57.0464418,9.9245906,3a,75y,5.13h,69.22t/data=!3m6!1e1!3m4!1sAxic8SA3uesfT1W6ghu10Q!2e0!7i13312!8i6656?hl=da
+      \endverb
+      \warn{\item Datamodel: Entry 'gm2015' (bib/mybib.bib): Invalid format '2015-12-15"' of date field 'urldate' - ignoring}
     \endentry
     \entry{aabcykelby}{online}{}
       \name{author}{1}{}{%
@@ -55,6 +91,44 @@
       \field{year}{2015}
       \verb{url}
       \verb http://www.aalborgcykelby.dk/aalborg-cykelby
+      \endverb
+    \endentry
+    \entry{SP2015}{online}{}
+      \name{author}{1}{}{%
+        {{hash=042de903f58cbc089c0f0e4abbd84c24}{Reis}{R\bibinitperiod}{Mag.\bibnamedelimi Simone}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{042de903f58cbc089c0f0e4abbd84c24}
+      \strng{fullhash}{042de903f58cbc089c0f0e4abbd84c24}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sonnenfelsplatz}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.stadtentwicklung.graz.at/cms/beitrag/10136328/5030273/
+      \endverb
+    \endentry
+    \entry{DEFT2006}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8c79a04ad73f4e5e7795bf8aa7a2e662}{Tidende}{T\bibinitperiod}{De\bibnamedelima Europæiske\bibnamedelima Fælleskabs}{D\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8c79a04ad73f4e5e7795bf8aa7a2e662}
+      \strng{fullhash}{8c79a04ad73f4e5e7795bf8aa7a2e662}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{InterregII(2000-2006}
+      \field{urlday}{01}
+      \field{urlmonth}{11}
+      \field{urlyear}{2015}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://eur-lex.europa.eu/content/welcome/about.html
       \endverb
     \endentry
     \entry{sweconflict}{online}{}
@@ -76,7 +150,42 @@
       \verb http://www.tft.lth.se/fileadmin/tft/video_in_traffic/Swedish_conflict_technique.pdf
       \endverb
     \endentry
+    \entry{vejlednigomss2013}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e1886838b96d53d0e64a88f8324ff6f1}{Vejdirektoratet}{V\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \strng{fullhash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vejledning om anvendelse af Shared Space}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://vejregler.lovportaler.dk/showdoc.aspx?t=/V1/Navigation/Tillidsmandssystemer/Vejregler/Anlaegsplanlaegning/Trafikarealer+by/Vejgeometri+i+byomrader/&docId=vd-shared-space-full
+      \endverb
+      \warn{\item Datamodel: Entry 'vejlednigomss2013' (bib/mybib.bib): Invalid format '2015-11-17"' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{forbudsskilt2007}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b2aeb7a9708366ae984cd747c983f2b7}{Watto}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{b2aeb7a9708366ae984cd747c983f2b7}
+      \strng{fullhash}{b2aeb7a9708366ae984cd747c983f2b7}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vejskilt- Forbudstavl C55 lokal hastighedsberænsning}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://www.wattoo.dk/vejskilt-c55-30km-refleks-881060840
+      \endverb
+      \warn{\item Datamodel: Entry 'forbudsskilt2007' (bib/mybib.bib): Invalid format '2015-12-14"' of date field 'urldate' - ignoring}
+    \endentry
   \endsortlist
+  \missing{konfli}
   \missing{Madsen2010}
 \endrefsection
 \endinput

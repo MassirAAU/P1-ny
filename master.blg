@@ -1,18 +1,31 @@
 [0] Config.pm:324> INFO - This is Biber 2.1
 [0] Config.pm:327> INFO - Logfile is 'master.blg'
 [78] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
-[78] Biber.pm:333> INFO - Reading 'master.bcf'
-[420] Biber.pm:645> INFO - Found 4 citekeys in bib section 0
-[454] Biber.pm:2977> INFO - Processing section 0
-[484] Biber.pm:3115> INFO - Looking for bibtex format file 'bib/mybib.bib' for section 0
-[494] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
-[499] bibtex.pm:895> INFO - Found BibTeX data source 'bib/mybib.bib'
-[506] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\rq5ByrOL_O\mybib.bib_7596.utf8, line 10, warning: 1 characters of junk seen at toplevel
-[507] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\rq5ByrOL_O\mybib.bib_7596.utf8, line 18, warning: 1 characters of junk seen at toplevel
-[508] Utils.pm:146> WARN - I didn't find a database entry for 'Madsen2010' (section 0)
-[574] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[574] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[574] Biber.pm:2854> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'da-DK'
-[580] bbl.pm:505> INFO - Writing 'master.bbl' with encoding 'UTF-8'
-[598] bbl.pm:596> INFO - Output to master.bbl
-[601] Biber.pm:106> INFO - WARNINGS: 3
+[79] Biber.pm:333> INFO - Reading 'master.bcf'
+[428] Biber.pm:645> INFO - Found 11 citekeys in bib section 0
+[460] Biber.pm:2977> INFO - Processing section 0
+[491] Biber.pm:3115> INFO - Looking for bibtex format file 'bib/mybib.bib' for section 0
+[521] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[537] bibtex.pm:895> INFO - Found BibTeX data source 'bib/mybib.bib'
+[539] Utils.pm:146> WARN - Duplicate entry key: 'vejlednigomss2013' in file 'bib/mybib.bib', skipping ...
+[551] Utils.pm:146> WARN - Datamodel: Entry 'vejlednigomss2013' (bib/mybib.bib): Invalid format '2015-11-17"' of date field 'urldate' - ignoring
+[559] Utils.pm:146> WARN - Datamodel: Entry 'gm2015' (bib/mybib.bib): Invalid format '2015-12-15"' of date field 'urldate' - ignoring
+[563] Utils.pm:146> WARN - Datamodel: Entry 'forbudsskilt2007' (bib/mybib.bib): Invalid format '2015-12-14"' of date field 'urldate' - ignoring
+[607] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 10, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 18, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 27, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 35, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 43, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 51, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 59, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 68, warning: 1 characters of junk seen at toplevel
+[608] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 78, warning: 1 characters of junk seen at toplevel
+[609] Utils.pm:146> WARN - BibTeX subsystem: C:\Users\AQAUO_~1\AppData\Local\Temp\LYsVWpzpdk\mybib.bib_9904.utf8, line 86, warning: 1 characters of junk seen at toplevel
+[610] Utils.pm:146> WARN - I didn't find a database entry for 'Madsen2010' (section 0)
+[610] Utils.pm:146> WARN - I didn't find a database entry for 'konfli' (section 0)
+[767] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[768] UCollate.pm:66> INFO - Overriding locale 'da-DK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[768] Biber.pm:2854> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'da-DK'
+[791] bbl.pm:505> INFO - Writing 'master.bbl' with encoding 'UTF-8'
+[834] bbl.pm:596> INFO - Output to master.bbl
+[971] Biber.pm:106> INFO - WARNINGS: 16
