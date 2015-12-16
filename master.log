@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  16 DEC 2015 13:19
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  16 DEC 2015 13:11
->>>>>>> 83809009b6380e0efceefc4985330b352180e913
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  16 DEC 2015 13:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3891,25 +3887,6 @@ Package logreq Info: Writing requests to 'master.run.xml'.
 ### simple group (level 1) entered at line 2 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 28351 strings out of 493673
- 521188 string characters out of 3141517
- 1063160 words of memory out of 3000000
- 30853 multiletter control sequences out of 15000+200000
- 67042 words of font info for 115 fonts, out of 3000000 for 9000
- 1030 hyphenation exceptions out of 8191
- 64i,14n,92p,1755b,2002s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Aqauo_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
-knappen\ec\dpi600\ectt1200.pk> <C:\Users\Aqauo_000\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk>{C:/Program Files (x86)/MiKTeX 2.9/
-fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/fpl/fplrc8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/u
-plb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pf
-b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (80 pages, 31439715 bytes).
-=======
  28323 strings out of 493089
  520473 string characters out of 6134841
  1063629 words of memory out of 5000000
@@ -3926,8 +3903,7 @@ texlive/2015/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (78 pages, 31062304 bytes).
->>>>>>> 83809009b6380e0efceefc4985330b352180e913
+Output written on master.pdf (78 pages, 31058477 bytes).
 PDF statistics:
  751 PDF objects out of 1000 (max. 8388607)
  596 compressed objects within 6 object streams
