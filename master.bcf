@@ -2235,31 +2235,35 @@
     <bcf:datasource type="file" datatype="bibtex">bib/mybib.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Madsen2010</bcf:citekey>
-    <bcf:citekey order="2">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="3">DEFT2006</bcf:citekey>
+    <bcf:citekey order="1">arealplan</bcf:citekey>
+    <bcf:citekey order="2">arealplan</bcf:citekey>
+    <bcf:citekey order="3">omlaegning</bcf:citekey>
     <bcf:citekey order="4">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="5">SP2015</bcf:citekey>
+    <bcf:citekey order="5">DEFT2006</bcf:citekey>
     <bcf:citekey order="6">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="7">gm2015</bcf:citekey>
-    <bcf:citekey order="8">gm2015</bcf:citekey>
-    <bcf:citekey order="9">hs</bcf:citekey>
-    <bcf:citekey order="10">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="11">forbudsskilt2007</bcf:citekey>
-    <bcf:citekey order="12">forbudsskilt2007</bcf:citekey>
-    <bcf:citekey order="13">e49</bcf:citekey>
-    <bcf:citekey order="14">e49</bcf:citekey>
+    <bcf:citekey order="7">SP2015</bcf:citekey>
+    <bcf:citekey order="8">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="9">gm2015</bcf:citekey>
+    <bcf:citekey order="10">gm2015</bcf:citekey>
+    <bcf:citekey order="11">hs</bcf:citekey>
+    <bcf:citekey order="12">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="13">forbudsskilt2007</bcf:citekey>
+    <bcf:citekey order="14">forbudsskilt2007</bcf:citekey>
     <bcf:citekey order="15">e49</bcf:citekey>
     <bcf:citekey order="16">e49</bcf:citekey>
-    <bcf:citekey order="17">vejlednigomss2013</bcf:citekey>
-    <bcf:citekey order="18">aabcykelby</bcf:citekey>
-    <bcf:citekey order="19">sweconflict</bcf:citekey>
-    <bcf:citekey order="20">sweconflict</bcf:citekey>
-    <bcf:citekey order="21">konfli</bcf:citekey>
-    <bcf:citekey order="22">konfli</bcf:citekey>
-    <bcf:citekey order="23">konfli</bcf:citekey>
+    <bcf:citekey order="17">e49</bcf:citekey>
+    <bcf:citekey order="18">e49</bcf:citekey>
+    <bcf:citekey order="19">vejlednigomss2013</bcf:citekey>
+    <bcf:citekey order="20">Kvale2009</bcf:citekey>
+    <bcf:citekey order="21">kvn</bcf:citekey>
+    <bcf:citekey order="22">aabcykelby</bcf:citekey>
+    <bcf:citekey order="23">sweconflict</bcf:citekey>
     <bcf:citekey order="24">sweconflict</bcf:citekey>
-    <bcf:citekey order="25">sweconflict</bcf:citekey>
+    <bcf:citekey order="25">konfli</bcf:citekey>
+    <bcf:citekey order="26">konfli</bcf:citekey>
+    <bcf:citekey order="27">konfli</bcf:citekey>
+    <bcf:citekey order="28">sweconflict</bcf:citekey>
+    <bcf:citekey order="29">sweconflict</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty" type="entry" sortscheme="nty">
   <bcf:sorting>
