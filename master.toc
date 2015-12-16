@@ -90,16 +90,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.6}Bussluse som l\IeC {\o }sningforslag for et tryggere omr\IeC {\r a}de i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{44}{subsection.3.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.7}Bussluse}{44}{subsection.3.3.7}
+\contentsline {subsubsection}{Busgrav og h\IeC {\ae }ve s\IeC {\ae }nke pullerter er forskellige m\IeC {\r a}der at lave bus sluser p\IeC {\r a}}{45}{subsubsection*.43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.8}Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{45}{subsection.3.3.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{46}{subsubsection*.44}
+\contentsline {subsubsection}{Bussluserne i Nytorv/\IeC {\O }ster\IeC {\r a}gade}{45}{subsubsection*.45}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Perpektivering}{53}{chapter.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Diskussion}{59}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografi}{63}{chapter*.52}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Interviews}{65}{appendix.A}
+\contentsline {chapter}{\numberline {A}Interviews}{63}{appendix.A}
